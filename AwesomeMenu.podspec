@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "AwesomeMenu"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "Path 2.0 menu using CoreAnimation :)."
   s.homepage     = "https://github.com/madrona-labs/AwesomeMenu.git"
   s.license      = 'MIT'
